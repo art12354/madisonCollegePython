@@ -1,0 +1,11 @@
+commit 88167b03d8f8b6f638d0391a288547a8408dcd5d
+Author: Arthur Sommer <asommer2@madisoncollege.edu>
+Date:   Mon Sep 13 13:45:59 2021 -0500
+
+    Added a new file
+
+commit 20c11485824f9b5a5dff2bb4c1193fbddb16395c
+Author: Arthur Sommer <asommer2@madisoncollege.edu>
+Date:   Mon Sep 13 13:42:05 2021 -0500
+
+    Initial commit of GitHub exercise
